@@ -7,3 +7,5 @@ https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 https://rotanafm128.radioca.st/;:80/;stream.mp3
 #EXTINF:-1 radio="true" tvg-name="BBC Radio Arabic" group-title="Radio",BBC Radio Arabic
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_arabic_radio.mpd
+#EXTINF:-1 radio="true" tvg-name="Radio Nationale" group-title="Radio",Radio Nationale Tunisia
+https://radio.radiotunisienne.tn/nationale
