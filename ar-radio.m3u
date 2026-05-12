@@ -3,3 +3,5 @@
 https://fm.alarabiya.net/fm/myStream/chunklist_w1452215449.m3u8
 #EXTINF:-1 radio="true" tvg-name="MCD Arabic" group-title="Radio",MCD Radio
 https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
+#EXTINF:-1 radio="true" tvg-name="Rotana Radio" group-title="Radio",Rotana Radio
+https://rotanafm128.radioca.st/;:80/;stream.mp3
