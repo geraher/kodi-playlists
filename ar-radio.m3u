@@ -5,3 +5,5 @@ https://fm.alarabiya.net/fm/myStream/chunklist_w1452215449.m3u8
 https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
 #EXTINF:-1 radio="true" tvg-name="Rotana Radio" group-title="Radio",Rotana Radio
 https://rotanafm128.radioca.st/;:80/;stream.mp3
+#EXTINF:-1 radio="true" tvg-name="BBC Radio Arabic" group-title="Radio",BBC Radio Arabic
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_arabic_radio.mpd
