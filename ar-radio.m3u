@@ -7,3 +7,7 @@ https://rotanafm128.radioca.st/;:80/;stream.mp3
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_arabic_radio.mpd
 #EXTINF:-1 radio="true" tvg-name="Radio Nationale" group-title="Radio",Radio Nationale Tunisia
 https://radio.radiotunisienne.tn/nationale
+#EXTINF:-1 radio="true" tvg-name="Al Arabiya FM" group-title="Radio",Al Arabiya FM
+https://fm.alarabiya.net/fm/myStream/chunklist_w1452215449.m3u8
+#EXTINF:-1 radio="true" tvg-name="Radio Riyadh" group-title="Radio",Radio Riyadh
+https://live.kwikmotion.com/sbrksariyadhradiolive/ksariyadhradio/chunks.m3u8
