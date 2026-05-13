@@ -17,3 +17,5 @@ https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/chunks.m3u8
 https://partwota.cdn.mgmlcdn.com/omanrdoorg/omanrdo.stream_aac/chunklist.m3u8
 #EXTINF:-1 radio="true" tvg-name="Qatar Radio" group-title="Radio",Qatar Radio
 https://qmcconnect.qa/api/StreamServices/qr/chunks.m3u8
+#EXTINF:-1 radio="true" tvg-name="Egypt Radio - Cultural Program" group-title="Radio",Egypt Radio - Cultural Program
+https://live.eu-north-1a.cf.dmcdn.net/sec2(PRcOKEQwgnM-B1U48zgIOtw90Igg3d54GmKKoQh5YygztEVXQQ_IlddL_ZdlHC5A9D04VfOmcSKxO1hDB-JMSng_XqmPsiICesS9bu65JfnloybONe59tyvNGjlTHqND)/dm/3/x8n6eci/s/live-240.m3u8
